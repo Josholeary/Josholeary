@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Programmer](programmer.gif)
+
 #### Welcome to my GitHub Profile
 
 - 💻 I am a 3rd year computer science student
