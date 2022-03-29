@@ -1,10 +1,8 @@
 ### Hi there 👋
 
+#### Welcome to my GitHub Profile
 
-**Josholeary/Josholeary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a Golf Score tracking web application
+- 💻 I am a 3rd year computer science student
+- 🔭 I’m currently working on a golf score tracking web application using the flask web framework
 - 🌱 I’m currently learning React JS
 - 📫 How to reach me: Josholeary7@gmail.com
