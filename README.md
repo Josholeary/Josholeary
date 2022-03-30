@@ -1,4 +1,4 @@
-### Welcome to my GitHub Profile 👾 
+![Banner](banner(1).png)
 
 ![Programmer](programmer.gif)
 
