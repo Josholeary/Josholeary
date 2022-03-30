@@ -19,7 +19,7 @@
 
 <img height=75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />   <img height=75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> <img height=75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
-<img height=75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />   <img height=75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />   <img height=75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img height=75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" /> <img height=75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />   <img height=75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
           
           
           
