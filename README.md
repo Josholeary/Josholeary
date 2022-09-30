@@ -4,13 +4,12 @@
 Hi 👋 My name is Josh
 =====================
 
-💻 3rd year computer science student
+💻 Final year computer science student
 ------------------------
 
 *   🌍  I'm based in Ireland
 *   ✉️  You can contact me at [josholeary7@gmail.com](mailto:josholeary7@gmail.com)
 *   🚀  I'm currently working on [Golf scorecard hosting application](http://github.com/Josholeary/GolfScoresApp)
-*   🧠  I'm learning React JS
 
 
 ![Programmer](programmer.gif)
