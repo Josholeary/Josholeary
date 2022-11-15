@@ -34,7 +34,7 @@ Hi 👋 My name is Josh
                     
 ## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josholeary&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josholeary&show_icons=true&theme=radical)
 
   
 
