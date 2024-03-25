@@ -4,7 +4,7 @@
 Hi 👋 My name is Josh
 =====================
 
-*   💻  Final year computer science student
+*   💻  Software Engineer
 *   🌍  Location: Ireland
 *   ✉️  Contact: [josholeary7@gmail.com](mailto:josholeary7@gmail.com)
 
